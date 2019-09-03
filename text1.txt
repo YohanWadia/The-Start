@@ -16,3 +16,5 @@ will take it from here...!
 Added this AFTER BRANCH WAS MADE
 
 Line 18 is in the simple merge
+
+Now this line comes after mthe merge was done

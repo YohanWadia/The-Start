@@ -6,4 +6,12 @@ will take it from here...!
 
 This update is After I updated Master, saying I have made a branch
 
+
 245887655444457889900... after the merge was done between Master file and simpleMerge file
+
+//////////////// this was the 3rd
+
+Added this AFTER BRANCH WAS MADE
+
+Line 18 is in the simple merge
+

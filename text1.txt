@@ -14,3 +14,5 @@ will take it from here...!
 //////////////// this was the 3rd
 
 Added this AFTER BRANCH WAS MADE
+
+Line 18 is in the simple merge
